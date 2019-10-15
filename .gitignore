@@ -48,7 +48,4 @@ captures/
 .idea/libraries
 .idea/caches
 
-# Auto generated MasterClass specific release apk folder
-app/actual/
-
 .DS_Store
