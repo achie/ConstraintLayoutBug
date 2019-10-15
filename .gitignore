@@ -1,0 +1,58 @@
+#############
+## Android ##
+#############
+
+# Built application files
+*.apk
+*.ap_
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Generated files
+bin/
+gen/
+out/
+
+# generated while creating release builds. app is no longer our module and as such we ca ignore this. Change it back if
+# we change our module names
+app/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log Files
+*.log
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures folder
+captures/
+
+.externalNativeBuild
+
+# IntelliJ
+*.iml
+.idea/
+.idea/assetWizardSettings.xml
+.idea/encodings.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/runConfigurations.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+
+# Auto generated MasterClass specific release apk folder
+app/actual/
+
+.DS_Store
