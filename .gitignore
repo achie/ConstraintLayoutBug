@@ -14,10 +14,6 @@ bin/
 gen/
 out/
 
-# generated while creating release builds. app is no longer our module and as such we ca ignore this. Change it back if
-# we change our module names
-app/
-
 # Gradle files
 .gradle/
 build/
